@@ -32,10 +32,10 @@ I am a final-year Applied Statistics undergraduate with a strong interest in **d
 
 ## 📜 Certifications
 
-- •	Introduction to Data Analytics - Coursera
-- •	Data Analysis with Python – Coursera
-- •	Introduction & intermediate to Machine Learning - Kaggle
-- •	Data Analysis and Visualization with Power BI - Coursera (Ongoing)
+- Introduction to Data Analytics - Coursera
+- Data Analysis with Python – Coursera
+- Introduction & intermediate to Machine Learning - Kaggle
+- Data Analysis and Visualization with Power BI - Coursera (Ongoing)
 
 
 ## 📫 Connect with Me
