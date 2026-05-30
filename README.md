@@ -12,7 +12,7 @@ I am a final-year Applied Statistics undergraduate with a strong interest in **d
 
 ## 🛠 Skills
 
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
+- 🐍 **Python** 
 - 📊 **R** 
 - 📈 **Statistical Methods** (Descriptive Analysis, ANOVA, Hypothesis Testing, Regression, , Classification)
 - 🔍 **Data Analysis & Visualization**
