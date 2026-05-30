@@ -14,11 +14,11 @@ I am a final-year Applied Statistics undergraduate with a strong interest in **d
 
 - 🐍 **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
 - 📊 **R** 
-- 📈 **Statistical Methods** (Regression, ANOVA, Hypothesis Testing, Time Series)
+- 📈 **Statistical Methods** (Descriptive Analysis, ANOVA, Hypothesis Testing, Regression, , Classification)
 - 🔍 **Data Analysis & Visualization**
 - 🤖 **Machine Learning & Predictive Modelling**
-- 🗄️ **SQL** (Basic)
 - 📉 **Power BI**
+- 🗄️ **SQL** (Basic)
 
 ---
 
